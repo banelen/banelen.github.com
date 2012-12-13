@@ -4,7 +4,7 @@
   <title><![CDATA[Star Ferry]]></title>
   <link href="http://banelen.github.com/atom.xml" rel="self"/>
   <link href="http://banelen.github.com/"/>
-  <updated>2012-12-14T00:16:16+08:00</updated>
+  <updated>2012-12-14T01:03:44+08:00</updated>
   <id>http://banelen.github.com/</id>
   <author>
     <name><![CDATA[jay]]></name>
@@ -18,7 +18,15 @@
     <link href="http://banelen.github.com/blog/2012/12/13/second/"/>
     <updated>2012-12-13T23:08:00+08:00</updated>
     <id>http://banelen.github.com/blog/2012/12/13/second</id>
-    <content type="html"><![CDATA[
+    <content type="html"><![CDATA[<h1>test</h1>
+
+<h2>test</h2>
+
+<blockquote><p>picture</p></blockquote>
+
+<h4>图片</h4>
+
+<p><img src="images/ice.jpg" alt="ice" /></p>
 ]]></content>
   </entry>
   
