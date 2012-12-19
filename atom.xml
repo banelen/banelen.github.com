@@ -4,7 +4,7 @@
   <title><![CDATA[Star Ferry]]></title>
   <link href="http://banelen.github.com/atom.xml" rel="self"/>
   <link href="http://banelen.github.com/"/>
-  <updated>2012-12-15T23:49:48+08:00</updated>
+  <updated>2012-12-19T12:04:32+08:00</updated>
   <id>http://banelen.github.com/</id>
   <author>
     <name><![CDATA[jay]]></name>
@@ -14,11 +14,28 @@
 
   
   <entry>
+    <title type="html"><![CDATA[你好]]></title>
+    <link href="http://banelen.github.com/blog/2012/12/13/ni-hao/"/>
+    <updated>2012-12-13T10:08:00+08:00</updated>
+    <id>http://banelen.github.com/blog/2012/12/13/ni-hao</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
+  
+  <entry>
     <title type="html"><![CDATA[Second]]></title>
     <link href="http://banelen.github.com/blog/2012/12/13/second/"/>
-    <updated>2012-12-13T23:08:00+08:00</updated>
+    <updated>2012-12-13T00:00:00+08:00</updated>
     <id>http://banelen.github.com/blog/2012/12/13/second</id>
-    <content type="html"><![CDATA[<h1>test</h1>
+    <content type="html"><![CDATA[<hr />
+
+<p>layout: post
+title: &#8220;Second&#8221;
+date: 2012-12-13 23:08
+comments: true
+categories:</p>
+
+<h1>test</h1>
 
 <h2>test</h2>
 
@@ -27,15 +44,6 @@
 <h4>图片</h4>
 
 <p><img src="http://photo.yodobashi.com/gear/sony/img/cameras/nex6/02.jpg" alt="ice" /></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[你好]]></title>
-    <link href="http://banelen.github.com/blog/2012/12/13/ni-hao/"/>
-    <updated>2012-12-13T10:08:00+08:00</updated>
-    <id>http://banelen.github.com/blog/2012/12/13/ni-hao</id>
-    <content type="html"><![CDATA[
 ]]></content>
   </entry>
   
