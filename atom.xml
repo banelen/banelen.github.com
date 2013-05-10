@@ -4,7 +4,7 @@
   <title><![CDATA[Star Ferry]]></title>
   <link href="http://banelen.github.com/atom.xml" rel="self"/>
   <link href="http://banelen.github.com/"/>
-  <updated>2012-12-19T12:07:05+08:00</updated>
+  <updated>2013-05-10T22:03:14+08:00</updated>
   <id>http://banelen.github.com/</id>
   <author>
     <name><![CDATA[jay]]></name>
@@ -12,6 +12,118 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[new]]></title>
+    <link href="http://banelen.github.com/blog/2013/05/10/new/"/>
+    <updated>2013-05-10T12:22:00+08:00</updated>
+    <id>http://banelen.github.com/blog/2013/05/10/new</id>
+    <content type="html"><![CDATA[<h1>日</h1>
+
+<p><strong>日</strong>日本</p>
+
+<h3>g</h3>
+
+<h4>d</h4>
+
+<h1><strong>d</strong></h1>
+
+<p><em>d</em></p>
+
+<blockquote><p>ri  &gt;</p></blockquote>
+
+<h1><a href="https://" title="哈哈哈">sina</a></h1>
+
+<pre><code>ddongdd
+tur
+</code></pre>
+
+<p><img src="dd" title="d" alt="ddd" /></p>
+
+<p><code>ddd</code></p>
+
+<ol>
+<li>s</li>
+<li>3</li>
+<li>4</li>
+</ol>
+
+
+<h1>k</h1>
+
+<ul>
+<li><p>d</p></li>
+<li><p>d</p></li>
+</ul>
+
+
+<p>ddd   <br/>
+d</p>
+
+<p>d<br/>
+dssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssss</p>
+
+<p>f</p>
+
+<hr />
+
+<p>tise.<a href="And">^1</a>
+That&#8217;s some text with a footnote.<a href="And">^1</a></p>
+
+<p>That&#8217;s some text with a footnote.<a href="ddddd">^2</a></p>
+
+<p><del>dddd</del></p>
+
+<figure class='code'><div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
+<span class='line-number'>2</span>
+<span class='line-number'>3</span>
+</pre></td><td class='code'><pre><code class=''><span class='line'>www
+</span><span class='line'>www
+</span><span class='line'>www</span></code></pre></td></tr></table></div></figure>
+
+
+<table>
+<thead>
+<tr>
+<th>aaaaa </th>
+<th> bbbbb </th>
+<th> cccccc</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>ddddd</td>
+<td>ddddd</td>
+<td>ddddd</td>
+</tr>
+</tbody>
+</table>
+
+
+<table>
+<thead>
+<tr>
+<th>First Hdddddeader </th>
+<th> Second Header </th>
+<th> Third Header</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Content Cell </td>
+<td> Content Cell  </td>
+<td> Content Cell</td>
+</tr>
+<tr>
+<td>Content Cell </td>
+<td> Content Cell  </td>
+<td> Content Cell</td>
+</tr>
+</tbody>
+</table>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[你好]]></title>
